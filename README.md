@@ -9,7 +9,7 @@ kotlin simple feeling test app using MVVM pattern.
 
 
 
------------`log` ----------------
+-----------`log` ----------------    
 <img src="https://user-images.githubusercontent.com/71416677/133190904-69a5f771-f37e-413b-aa22-cedfbe16d08e.gif" width="250" height="400"/>
 
 
