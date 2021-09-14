@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/test"
+        android:icon="@drawable/ic_baseline_science_24"
+        android:id="@+id/menu_test"
+        />
+
+    <item android:title="@string/mypage"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:id="@+id/menu_my"
+        />
+</menu>

@@ -1,0 +1,2 @@
+rootProject.name = "simple-test-MVVM"
+include ':app'

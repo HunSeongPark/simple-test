@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/g_1" android:duration="50"/>
+    <item android:drawable="@drawable/g_2" android:duration="50"/>
+    <item android:drawable="@drawable/g_3" android:duration="50"/>
+    <item android:drawable="@drawable/g_4" android:duration="50"/>
+    <item android:drawable="@drawable/g_5" android:duration="50"/>
+    <item android:drawable="@drawable/g_6" android:duration="50"/>
+    <item android:drawable="@drawable/g_7" android:duration="50"/>
+    <item android:drawable="@drawable/g_8" android:duration="50"/>
+    <item android:drawable="@drawable/g_9" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+    <item android:drawable="@drawable/g_10" android:duration="50"/>
+
+
+
+</animation-list>
