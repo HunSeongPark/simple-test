@@ -1,5 +1,5 @@
-# kotlin-simple-test-MVVM
-kotlin simple feeling test app using MVVM pattern.
+# simple-test-MVVM
+simple feeling test app using MVVM pattern.
 
 --------------- `start` ------------------------- `question` ------------------------ `result` --------------------- 
 <img src="https://user-images.githubusercontent.com/71416677/133190895-10b33185-79e6-44a2-bedd-95a1f583e97f.gif" width="250" height="400"/>
