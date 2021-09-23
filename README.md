@@ -1,4 +1,4 @@
-# simple-test-MVVM
+# simple-test
 simple feeling test app using MVVM pattern.
 
 --------------- `start` ------------------------- `question` ------------------------ `result` --------------------- 
